@@ -98,7 +98,7 @@ H_{\mathrm{eff}}=\begin{pmatrix}
 \qquad \varepsilon = d\lambda
 ```
 
-where $t$ is the tunnel coupling, the amplitude to cross the barrier, and $\varepsilon$ is the
+where $t$ is the tunnelling energy,set by the wavefunction overlap, and $\varepsilon$ is the
 energy difference the tilt opens between the two. Only the well interiors are tilted, so
 $\varepsilon = d\lambda$ with $d$ the fraction of a localised state's $|\psi|^{2}$ lying inside
 its own well. The two eigenvalues are separated by
